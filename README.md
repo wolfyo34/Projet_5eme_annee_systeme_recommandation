@@ -1,1 +1,4 @@
 # Projet_5eme_annee_systeme_recommandation
+Il existe déjà quelques applications permettant de recommander un emploie à partir d’un Cv mais elles sont peu nombreuses, nous avons décider d’en faire une avec une option pour l’entreprise afin qu’elle puisse elle aussi trouver et proposer une offre à son candidat idéale.
+Après avoir testé et configuré notre programme de création de base de données nous avons pu après un changement de langue ainsi qu’un traitement de ces données optimal créer un programme permettant de proposer un candidat à une entreprise ou une entreprise à un candidat selon un système de % de Matching.
+Une fois le programme réussi, nous avons identifié le procédé pour pouvoir déterminer par la suite un réglage optimal de manière à répondre à un meilleur cahier des charges qui fixe les performances désirées du procédé.
